@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I develop applications on the iOS and tvOS platform. And also server-side applications using Vapor.
+
+With a strong passion for learning and writing clean code. Code should not work against you, but for you.
+
+On my blog [kittako](https://kittako.hashnode.dev/) I write about the things I am interested in and have learned. 💪 🚀
