@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I develop applications on the iOS and tvOS platform. And also server-side applications using Vapor.
+I specialize in creating applications for iOS and tvOS, along with server-side applications using Vapor. I have a strong dedication to clean code and a belief that code should not work against you, but for you.
 
-With a strong passion for learning and writing clean code. Code should not work against you, but for you.
-
-On my blog [kittako](https://kittako.hashnode.dev/) I write about the things I am interested in and have learned. 💪 🚀
+On my blog, [kittako](https://kittako.hashnode.dev/), I share my interests and insights. It's a place where I write about what I've learned and what excites me. 🚀💪
